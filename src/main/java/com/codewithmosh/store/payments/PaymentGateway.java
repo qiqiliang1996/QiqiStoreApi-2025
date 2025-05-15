@@ -1,6 +1,7 @@
 package com.codewithmosh.store.payments;
 
 import com.codewithmosh.store.orders.Order;
+import org.springframework.stereotype.Component;
 
 import java.util.Optional;
 
